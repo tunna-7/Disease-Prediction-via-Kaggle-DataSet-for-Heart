@@ -2,4 +2,4 @@
 
 Following file icludes the necessary analysis and accuracy for 5 differet Machine Learning Techniques
           
-          Created for Da 2 of IoT Subject
+    Created for Da 2 of IoT Subject
